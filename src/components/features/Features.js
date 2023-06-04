@@ -2,6 +2,7 @@ import React from "react";
 import Title from "../layouts/Title";
 import Card from "./Card";
 import { FaMobile, FaGlobe } from "react-icons/fa";
+import { SiAntdesign } from "react-icons/si";
 
 const Features = () => {
   return (
